@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Points",
+  "description": "Android-first social video and rewards platform with controlled economics, creator revenue sharing, wallet ledger, UPI withdrawals, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
